@@ -1,0 +1,104 @@
+body {
+}
+.main-div {
+  height: 50%;
+  width: 50%;
+}
+/* div main*/
+.d1 {
+  background-color: #ccc;
+  position: absolute;
+  left: 0%;
+  top: 0%;
+}
+.ds1 {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border: 2px solid white;
+  background-color: red;
+}
+.ds2 {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border: 2px solid white;
+  background-color: gold;
+  top: 0%;
+  right: 0%;
+}
+/* div main*/
+.d2 {
+  background-color: #e86f88;
+  position: absolute;
+  right: 0%;
+  top: 0%;
+}
+.ds3 {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border: 2px solid white;
+  background-color: steelblue;
+  bottom: 0%;
+  left: 0%;
+}
+.ds4 {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border: 2px solid white;
+  background-color: blue;
+  right: 0%;
+}
+/* div main*/
+.d3 {
+  background-color: #79badb;
+  position: absolute;
+  left: 0%;
+  bottom: 0%;
+  /* flex-shrink: 2; */
+}
+.ds5 {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border: 2px solid white;
+  background-color: purple;
+}
+.ds6 {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border: 2px solid white;
+  background-color: orange;
+  bottom: 0%;
+  right: 0%;
+  /* align-self: center; */
+}
+/* div main*/
+.d4 {
+  background-color: #a2dbb1;
+  position: absolute;
+  right: 0%;
+  bottom: 0%;
+  /* flex-grow: 2; */
+}
+.ds7 {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border: 2px solid white;
+  background-color: gray;
+  right: 0%;
+  bottom: 0%;
+}
+.ds8 {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border: 2px solid white;
+  background-color: aqua;
+  left: 0%;
+  bottom: 0%;
+}
